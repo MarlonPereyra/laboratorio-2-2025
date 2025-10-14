@@ -13,6 +13,7 @@ public class Artefacto {
         private String tipo;
         private int nivelDePoder;
 
+
     public int getNivelDePoder() {
         return nivelDePoder;
     }
